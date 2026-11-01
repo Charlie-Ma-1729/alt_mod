@@ -7,8 +7,10 @@ title: "目錄"
 <div class="group">
 <ul class="chips">
 <li><a href="world/overview.html">總覽：世界觀與製作原則</a></li>
+<li><a href="world/timeline.html">全球時間軸</a></li>
 <li><a href="world/geneva-conference.html">日內瓦信仰大會</a></li>
 <li><a href="world/papacy.html">教廷與梵蒂岡</a></li>
+<li><a href="world/claims-overlap.html">領土重疊宣稱表</a></li>
 </ul>
 </div>
 </section>
@@ -33,6 +35,7 @@ title: "目錄"
 <li><a href="europe/ireland.html">愛爾蘭</a></li>
 <li><a href="europe/france.html">法國</a></li>
 <li><a href="europe/benelux.html">比利時、荷蘭、盧森堡</a></li>
+<li><a href="europe/switzerland.html">瑞士</a></li>
 <li><a href="europe/microstates.html">微型國家</a></li>
 </ul>
 </div>
@@ -51,6 +54,7 @@ title: "目錄"
 <li><a href="europe/yugoslavia.html">南斯拉夫</a></li>
 <li><a href="europe/bulgaria.html">保加利亞</a></li>
 <li><a href="europe/greece.html">希臘</a></li>
+<li><a href="europe/albania.html">阿爾巴尼亞</a></li>
 </ul>
 </div>
 </section>
@@ -68,10 +72,34 @@ title: "目錄"
 </div>
 </section>
 <section class="region">
-<h2>亞洲與非洲</h2>
+<h2>亞洲</h2>
 <div class="group">
 <ul class="chips">
-<li><a href="asia-africa/deferred.html">亞洲與非洲</a></li>
+<li><a href="asia/southeast-asia.html">東南亞</a></li>
+</ul>
+</div>
+</section>
+<section class="region">
+<h2>非洲</h2>
+<div class="group">
+<ul class="chips">
+<li><a href="africa/china-in-africa.html">國共內戰在非洲</a></li>
+</ul>
+</div>
+</section>
+<section class="region">
+<h2>大洋洲</h2>
+<div class="group">
+<ul class="chips">
+<li><a href="oceania/oceania.html">大洋洲</a></li>
+</ul>
+</div>
+</section>
+<section class="region">
+<h2>南美</h2>
+<div class="group">
+<ul class="chips">
+<li><a href="south-america/peru.html">秘魯</a></li>
 </ul>
 </div>
 </section>

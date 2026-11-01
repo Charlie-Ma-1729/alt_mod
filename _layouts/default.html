@@ -15,7 +15,7 @@
   </script>
   <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
 </head>
-<body>
+<body id="top">
   <header class="site-header">
     <div class="wrap">
       <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
@@ -24,10 +24,16 @@
   </header>
   <main class="wrap">
     {% if page.url != "/" and page.url != "/index.html" %}
-    <p class="back"><a href="{{ '/' | relative_url }}">← 目錄</a></p>
+    <a class="btn-back" href="{{ '/' | relative_url }}"><span aria-hidden="true">←</span> 返回目錄</a>
     {% endif %}
     <h1>{{ page.title }}</h1>
     {{ content }}
+    {% if page.url != "/" and page.url != "/index.html" %}
+    <nav class="page-end">
+      <a class="btn-back" href="{{ '/' | relative_url }}"><span aria-hidden="true">←</span> 返回目錄</a>
+      <a class="btn-back" href="#top"><span aria-hidden="true">↑</span> 回到頂端</a>
+    </nav>
+    {% endif %}
   </main>
   <script>
     (function () {

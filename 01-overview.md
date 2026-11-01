@@ -14,13 +14,13 @@ title: "總覽"
 
 | 國家 | 路線 | 檔案 |
 | --- | --- | --- |
-| 德國 | 西藏考察團 → 希特勒取經 → 三位代理元首 → 大梵天德意志金剛神國等分歧 | [02-germany.md](02-germany.html) |
-| 匈牙利 | 匈人至高軍政府 → 大圖蘭聖憲帝國（阿提拉轉世，騰格里信仰） | [04-hungary-austria.md](04-hungary-austria.html) |
-| 奧地利 | 多瑙河大劫難（事件），玩家三選一 | [04-hungary-austria.md](04-hungary-austria.html) |
-| 英國 | 不列顛毗濕奴聯合王國（印度教） | [05-britain-france.md](05-britain-france.html) |
-| 法國 | 法蘭西第三帝國：奧爾良攝政議會加波拿巴皇帝，舊世界最後防線 | [05-britain-france.md](05-britain-france.html) |
-| 葡萄牙 | 大明正統在里斯本 | [06-portugal-ming.md](06-portugal-ming.html) |
-| 義大利、波蘭、捷克斯洛伐克、荷蘭 | 簡單反應 | [07-other-countries.md](07-other-countries.html) |
+| 德國 | 西藏考察團 → 希特勒取經 → 三位代理元首 → 大梵天德意志金剛神國等分歧 | [詳細](02-germany.html) |
+| 匈牙利 | 匈人至高軍政府 → 大圖蘭聖憲帝國（阿提拉轉世，騰格里信仰） | [詳細](04-hungary-austria.html) |
+| 奧地利 | 多瑙河大劫難（事件），玩家三選一 | [詳細](04-hungary-austria.html) |
+| 英國 | 不列顛毗濕奴聯合王國（印度教） | [詳細](05-britain-france.html) |
+| 法國 | 法蘭西第三帝國：奧爾良攝政議會加波拿巴皇帝，舊世界最後防線 | [詳細](05-britain-france.html) |
+| 葡萄牙 | 大明正統在里斯本 | [詳細](06-portugal-ming.html) |
+| 義大利、波蘭、捷克斯洛伐克、荷蘭 | 簡單反應 | [詳細](07-other-countries.html) |
 
 ## 已刪除的點子
 

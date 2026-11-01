@@ -11,6 +11,9 @@ title: "目錄"
 <li><a href="world/geneva-conference.html">日內瓦信仰大會</a></li>
 <li><a href="world/papacy.html">教廷與梵蒂岡</a></li>
 <li><a href="world/claims-overlap.html">領土重疊宣稱表</a></li>
+<li><a href="world/factions.html">信仰陣營</a></li>
+<li><a href="world/supreme-rome.html">至高羅馬最終對決</a></li>
+<li><a href="world/world-war.html">世界大戰</a></li>
 </ul>
 </div>
 </section>
@@ -75,7 +78,12 @@ title: "目錄"
 <h2>亞洲</h2>
 <div class="group">
 <ul class="chips">
+<li><a href="asia/china.html">中國</a></li>
+<li><a href="asia/japan.html">日本</a></li>
+<li><a href="asia/korea.html">朝鮮</a></li>
+<li><a href="asia/borderlands.html">蒙古、滿洲、新疆與西藏</a></li>
 <li><a href="asia/southeast-asia.html">東南亞</a></li>
+<li><a href="asia/central-asia.html">阿富汗與中亞</a></li>
 </ul>
 </div>
 </section>

@@ -58,18 +58,18 @@ title: "總覽：世界觀與製作原則"
 | 西班牙 | 六到七方內戰 | [西班牙](../europe/spain.html) |
 | 義大利 | 墨索里尼之死與大分裂（A/B/C） | [義大利](../europe/italy.html) |
 | 羅馬尼亞、南斯拉夫、保加利亞、希臘、阿爾巴尼亞 | 各自多條路線 | [羅馬尼亞](../europe/romania.html)、[南斯拉夫](../europe/yugoslavia.html)、[保加利亞](../europe/bulgaria.html)、[希臘](../europe/greece.html)、[阿爾巴尼亞](../europe/albania.html) |
-| 蘇聯 | 衰弱的開頭，紅色法老（宣稱，不復活）、大清洗失控與第三羅馬；另有兩條路線待加；崩解後烏克蘭與白俄羅斯各兩條路線、高加索一條 |  |
-| 土耳其 | 尚未確認路線；馬基林山聖女的流亡銜接已有構想 |  |
+| 蘇聯 | 衰弱的開頭，紅色法老（宣稱，不復活）、大清洗失控與第三羅馬；另有兩條路線待加；崩解後烏克蘭與白俄羅斯各兩條路線、高加索一條 | [蘇聯](../europe/ussr.html) |
+| 土耳其 | 尚未確認路線；馬基林山聖女的流亡銜接已有構想 | [土耳其](../europe/turkey.html) |
 | 北美 | 美國崩潰與數十個勢力 | [北美總覽](../north-america/overview.html) |
 | 中國 | 1937 丁丑之變：太平天國與大乘教；雲南紫府天國 | [中國](../asia/china.html) |
 | 日本、朝鮮 | 日本兩條路線（法華農本神權、伊斯蘭哈里發）；朝鮮三條路線（新巴比倫、平壤錫安、世俗共和） | [日本](../asia/japan.html)、[朝鮮](../asia/korea.html) |
 | 蒙古、滿洲、新疆 | 奧茲國；阿奎隆尼亞；敦煌文書研究院獨立國 | [蒙古與邊疆](../asia/borderlands.html) |
 | 東南亞 | 清加坡三條路線；緬甸（克蘇魯）；印尼（法家）；泰國（印加或東方羅馬）；菲律賓流亡政府 | [東南亞](../asia/southeast-asia.html) |
-| 南亞 | 毗濕奴王國的印度側；路線 C 的分裂多一個瑪拿西以色列王國 |  |
-| 中東、中亞 | 巫毒波斯；石油神帝國；鎮尼斯坦；赫茨爾派巴勒斯坦；阿富汗兩條路線稿 | 、[阿富汗與中亞](../asia/central-asia.html) |
-| 非洲 | 國共內戰在非洲、衣索比亞、埃及羽蛇神、摩洛哥祆教、剛果耆那教、南非三國與馬達加斯加 | [國共內戰在非洲](../africa/china-in-africa.html)、、、中非、南非與西非 |
+| 南亞 | 毗濕奴王國的印度側；路線 C 的分裂多一個瑪拿西以色列王國 | [南亞](../asia/south-asia.html) |
+| 中東、中亞 | 巫毒波斯；石油神帝國；鎮尼斯坦；赫茨爾派巴勒斯坦；阿富汗兩條路線稿 | [中東](../asia/middle-east.html)、[阿富汗與中亞](../asia/central-asia.html) |
+| 非洲 | 國共內戰在非洲、衣索比亞、埃及羽蛇神、摩洛哥祆教、剛果耆那教、南非三國與馬達加斯加 | [國共內戰在非洲](../africa/china-in-africa.html)、[衣索比亞](../africa/ethiopia.html)、[北非](../africa/north-africa.html)、[中非、南非與西非](../africa/central-south.html) |
 | 大洋洲 | 澳洲九天玄女、紐西蘭吉爾伽美什（四條路線）、夏威夷 | [大洋洲](../oceania/oceania.html) |
-| 南美 | 秘魯日輪起義、巴西迦南神系、智利所羅門王、委內瑞拉、玻利維亞、巴拉圭 | [秘魯](../south-america/peru.html)、、 |
+| 南美 | 秘魯日輪起義、巴西迦南神系、智利所羅門王、委內瑞拉、玻利維亞、巴拉圭 | [秘魯](../south-america/peru.html)、[巴西](../south-america/brazil.html)、[智利與其餘南美](../south-america/chile-and-others.html) |
 
 ## 已刪除的點子
 

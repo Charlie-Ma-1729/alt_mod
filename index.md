@@ -7,6 +7,7 @@ title: "目錄"
 <div class="group">
 <ul class="chips">
 <li><a href="world/overview.html">總覽：世界觀與製作原則</a></li>
+<li><a href="world/country-roster.html">全國路線總表</a></li>
 <li><a href="world/timeline.html">全球時間軸</a></li>
 <li><a href="world/factions.html">信仰陣營</a></li>
 <li><a href="world/geneva-conference.html">日內瓦信仰大會</a></li>
@@ -51,14 +52,13 @@ title: "目錄"
 </ul>
 </div>
 <div class="group">
-<h3>巴爾幹、近東與東歐</h3>
+<h3>巴爾幹與東歐</h3>
 <ul class="chips">
 <li><a href="europe/romania.html">羅馬尼亞</a></li>
 <li><a href="europe/yugoslavia.html">南斯拉夫</a></li>
 <li><a href="europe/bulgaria.html">保加利亞</a></li>
 <li><a href="europe/greece.html">希臘</a></li>
 <li><a href="europe/albania.html">阿爾巴尼亞</a></li>
-<li><a href="europe/turkey.html">土耳其</a></li>
 <li><a href="europe/ussr.html">蘇聯</a></li>
 </ul>
 </div>
@@ -87,6 +87,7 @@ title: "目錄"
 <li><a href="asia/southeast-asia.html">東南亞</a></li>
 <li><a href="asia/south-asia.html">南亞</a></li>
 <li><a href="asia/middle-east.html">中東與近東</a></li>
+<li><a href="asia/turkey.html">土耳其</a></li>
 <li><a href="asia/central-asia.html">阿富汗與中亞</a></li>
 </ul>
 </div>

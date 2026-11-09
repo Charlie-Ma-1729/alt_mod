@@ -2,6 +2,25 @@
 layout: default
 title: "目錄"
 ---
+<div class="home-intro">
+<p>這裡只收<strong>已經確認</strong>的設計，按地區與國家整理，共 61 頁。用上方的搜尋框可以找任何國名、路線或詞；每一頁都標有最後更新日期，頁尾有「哪些頁面連到這裡」。</p>
+<p>第一次來可以先看：<a href="world/overview.html">世界觀與製作原則</a>、<a href="world/country-roster.html">全國路線總表</a>、<a href="world/conflicts.html">世界衝突列表</a>、<a href="world/glossary.html">名詞表</a>、<a href="world/changelog.html">更新紀錄</a>。發現漏掉或寫錯，請按各頁底部的「回報這一頁」。</p>
+</div>
+<section class="region">
+<h2>最近更新</h2>
+<ul class="recent">
+<li><a href="africa/central-south.html">中非、南非與西非</a><time>2026-11-09</time></li>
+<li><a href="africa/ethiopia.html">衣索比亞</a><time>2026-11-09</time></li>
+<li><a href="asia/borderlands.html">蒙古、滿洲、新疆與西藏</a><time>2026-11-09</time></li>
+<li><a href="asia/caucasus.html">高加索</a><time>2026-11-09</time></li>
+<li><a href="asia/china.html">中國</a><time>2026-11-09</time></li>
+<li><a href="asia/japan.html">日本</a><time>2026-11-09</time></li>
+<li><a href="asia/korea.html">朝鮮</a><time>2026-11-09</time></li>
+<li><a href="asia/middle-east.html">中東與近東</a><time>2026-11-09</time></li>
+<li><a href="asia/north-asia.html">北亞</a><time>2026-11-09</time></li>
+<li><a href="asia/south-asia.html">南亞</a><time>2026-11-09</time></li>
+</ul>
+</section>
 <section class="region">
 <h2>世界與跨國</h2>
 <div class="group">
@@ -16,6 +35,8 @@ title: "目錄"
 <li><a href="world/world-war.html">世界大戰</a></li>
 <li><a href="world/papacy.html">教廷與梵蒂岡</a></li>
 <li><a href="world/claims-overlap.html">領土重疊宣稱表</a></li>
+<li><a href="world/glossary.html">名詞表</a></li>
+<li><a href="world/changelog.html">更新紀錄</a></li>
 </ul>
 </div>
 </section>

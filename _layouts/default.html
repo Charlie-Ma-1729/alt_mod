@@ -19,6 +19,10 @@
   <header class="site-header">
     <div class="wrap">
       <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <div class="search">
+        <input id="q" type="search" placeholder="搜尋整個網站（國名、詞、路線…）" autocomplete="off" aria-label="搜尋整個網站" data-src="{{ '/search.json' | relative_url }}" data-base="{{ '/' | relative_url }}">
+        <div id="results" hidden></div>
+      </div>
       <button id="theme-toggle" type="button" aria-label="切換淺色或深色主題"></button>
     </div>
   </header>
@@ -27,8 +31,23 @@
     <a class="btn-back" href="{{ '/' | relative_url }}"><span aria-hidden="true">←</span> 返回目錄</a>
     {% endif %}
     <h1>{{ page.title }}</h1>
+    {% if page.url != "/" and page.url != "/index.html" %}
+    {% assign updated = site.data.updated[page.path] %}
+    {% if updated %}<p class="page-meta">最後更新：{{ updated }}　·　這一頁只列已確認的內容</p>{% endif %}
+    <nav id="toc" class="toc" hidden></nav>
+    {% endif %}
     {{ content }}
     {% if page.url != "/" and page.url != "/index.html" %}
+    {% assign bl = site.data.backlinks[page.path] %}
+    {% if bl %}
+    <aside class="backlinks">
+      <h2>哪些頁面連到這裡</h2>
+      <ul class="chips">
+        {% for b in bl %}<li><a href="{{ b.u }}">{{ b.t }}</a></li>{% endfor %}
+      </ul>
+    </aside>
+    {% endif %}
+    <p class="report">發現漏掉或寫錯了嗎？<a href="https://github.com/Charlie-Ma-1729/alt_mod/issues/new?title={{ '回報：' | append: page.title | uri_escape }}">回報這一頁</a>（需要 GitHub 帳號），或直接告訴企劃者。</p>
     <nav class="page-end">
       <a class="btn-back" href="{{ '/' | relative_url }}"><span aria-hidden="true">←</span> 返回目錄</a>
       <a class="btn-back" href="#top"><span aria-hidden="true">↑</span> 回到頂端</a>
@@ -54,5 +73,6 @@
       label();
     })();
   </script>
+  <script src="{{ '/assets/site.js' | relative_url }}?v={{ site.asset_version }}"></script>
 </body>
 </html>

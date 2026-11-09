@@ -1,0 +1,1154 @@
+{
+    "africa/central-south.md":  [
+                                    {
+                                        "u":  "china-in-africa.html",
+                                        "t":  "國共內戰在非洲"
+                                    },
+                                    {
+                                        "u":  "../asia/south-asia.html",
+                                        "t":  "南亞"
+                                    },
+                                    {
+                                        "u":  "../europe/benelux.html",
+                                        "t":  "比利時、荷蘭、盧森堡"
+                                    },
+                                    {
+                                        "u":  "../world/overview.html",
+                                        "t":  "總覽：世界觀與製作原則"
+                                    }
+                                ],
+    "africa/china-in-africa.md":  [
+                                      {
+                                          "u":  "../asia/china.html",
+                                          "t":  "中國"
+                                      },
+                                      {
+                                          "u":  "../world/overview.html",
+                                          "t":  "總覽：世界觀與製作原則"
+                                      },
+                                      {
+                                          "u":  "../world/timeline.html",
+                                          "t":  "全球時間軸"
+                                      }
+                                  ],
+    "africa/ethiopia.md":  [
+                               {
+                                   "u":  "../north-america/caribbean.html",
+                                   "t":  "加勒比海"
+                               },
+                               {
+                                   "u":  "../south-america/chile-and-others.html",
+                                   "t":  "智利、委內瑞拉、玻利維亞、巴拉圭與其餘南美"
+                               },
+                               {
+                                   "u":  "../world/overview.html",
+                                   "t":  "總覽：世界觀與製作原則"
+                               }
+                           ],
+    "africa/north-africa.md":  [
+                                   {
+                                       "u":  "central-south.html",
+                                       "t":  "中非、南非與西非"
+                                   },
+                                   {
+                                       "u":  "../asia/japan.html",
+                                       "t":  "日本"
+                                   },
+                                   {
+                                       "u":  "../asia/middle-east.html",
+                                       "t":  "中東與近東"
+                                   },
+                                   {
+                                       "u":  "../europe/spain.html",
+                                       "t":  "西班牙"
+                                   },
+                                   {
+                                       "u":  "../europe/ussr.html",
+                                       "t":  "蘇聯"
+                                   },
+                                   {
+                                       "u":  "../north-america/mexico.html",
+                                       "t":  "墨西哥"
+                                   },
+                                   {
+                                       "u":  "../south-america/brazil.html",
+                                       "t":  "巴西"
+                                   },
+                                   {
+                                       "u":  "../world/overview.html",
+                                       "t":  "總覽：世界觀與製作原則"
+                                   }
+                               ],
+    "asia/borderlands.md":  [
+                                {
+                                    "u":  "china.html",
+                                    "t":  "中國"
+                                },
+                                {
+                                    "u":  "south-asia.html",
+                                    "t":  "南亞"
+                                },
+                                {
+                                    "u":  "yunnan.html",
+                                    "t":  "雲南"
+                                },
+                                {
+                                    "u":  "../europe/germany.html",
+                                    "t":  "德國"
+                                },
+                                {
+                                    "u":  "../world/overview.html",
+                                    "t":  "總覽：世界觀與製作原則"
+                                }
+                            ],
+    "asia/caucasus.md":  [
+                             {
+                                 "u":  "middle-east.html",
+                                 "t":  "中東與近東"
+                             },
+                             {
+                                 "u":  "../europe/ussr.html",
+                                 "t":  "蘇聯"
+                             }
+                         ],
+    "asia/central-asia.md":  [
+                                 {
+                                     "u":  "../world/overview.html",
+                                     "t":  "總覽：世界觀與製作原則"
+                                 }
+                             ],
+    "asia/china.md":  [
+                          {
+                              "u":  "../africa/china-in-africa.html",
+                              "t":  "國共內戰在非洲"
+                          },
+                          {
+                              "u":  "borderlands.html",
+                              "t":  "蒙古、滿洲、新疆與西藏"
+                          },
+                          {
+                              "u":  "japan.html",
+                              "t":  "日本"
+                          },
+                          {
+                              "u":  "southeast-asia.html",
+                              "t":  "東南亞"
+                          },
+                          {
+                              "u":  "yunnan.html",
+                              "t":  "雲南"
+                          },
+                          {
+                              "u":  "../europe/portugal.html",
+                              "t":  "葡萄牙"
+                          },
+                          {
+                              "u":  "../south-america/chile-and-others.html",
+                              "t":  "智利、委內瑞拉、玻利維亞、巴拉圭與其餘南美"
+                          },
+                          {
+                              "u":  "../world/claims-overlap.html",
+                              "t":  "領土重疊宣稱表"
+                          },
+                          {
+                              "u":  "../world/overview.html",
+                              "t":  "總覽：世界觀與製作原則"
+                          },
+                          {
+                              "u":  "../world/timeline.html",
+                              "t":  "全球時間軸"
+                          }
+                      ],
+    "asia/japan.md":  [
+                          {
+                              "u":  "china.html",
+                              "t":  "中國"
+                          },
+                          {
+                              "u":  "korea.html",
+                              "t":  "朝鮮"
+                          },
+                          {
+                              "u":  "middle-east.html",
+                              "t":  "中東與近東"
+                          },
+                          {
+                              "u":  "taiwan.html",
+                              "t":  "台灣"
+                          },
+                          {
+                              "u":  "../world/overview.html",
+                              "t":  "總覽：世界觀與製作原則"
+                          },
+                          {
+                              "u":  "../world/timeline.html",
+                              "t":  "全球時間軸"
+                          }
+                      ],
+    "asia/korea.md":  [
+                          {
+                              "u":  "japan.html",
+                              "t":  "日本"
+                          },
+                          {
+                              "u":  "../world/overview.html",
+                              "t":  "總覽：世界觀與製作原則"
+                          },
+                          {
+                              "u":  "../world/timeline.html",
+                              "t":  "全球時間軸"
+                          }
+                      ],
+    "asia/middle-east.md":  [
+                                {
+                                    "u":  "japan.html",
+                                    "t":  "日本"
+                                },
+                                {
+                                    "u":  "south-asia.html",
+                                    "t":  "南亞"
+                                },
+                                {
+                                    "u":  "../europe/bulgaria.html",
+                                    "t":  "保加利亞"
+                                },
+                                {
+                                    "u":  "../europe/czechoslovakia.html",
+                                    "t":  "捷克斯洛伐克"
+                                },
+                                {
+                                    "u":  "../europe/france.html",
+                                    "t":  "法國"
+                                },
+                                {
+                                    "u":  "../south-america/chile-and-others.html",
+                                    "t":  "智利、委內瑞拉、玻利維亞、巴拉圭與其餘南美"
+                                },
+                                {
+                                    "u":  "../world/overview.html",
+                                    "t":  "總覽：世界觀與製作原則"
+                                }
+                            ],
+    "asia/north-asia.md":  [
+                               {
+                                   "u":  "../europe/ussr.html",
+                                   "t":  "蘇聯"
+                               }
+                           ],
+    "asia/south-asia.md":  [
+                               {
+                                   "u":  "../africa/ethiopia.html",
+                                   "t":  "衣索比亞"
+                               },
+                               {
+                                   "u":  "../europe/britain.html",
+                                   "t":  "英國"
+                               },
+                               {
+                                   "u":  "../north-america/canada.html",
+                                   "t":  "加拿大"
+                               },
+                               {
+                                   "u":  "../world/overview.html",
+                                   "t":  "總覽：世界觀與製作原則"
+                               }
+                           ],
+    "asia/southeast-asia.md":  [
+                                   {
+                                       "u":  "china.html",
+                                       "t":  "中國"
+                                   },
+                                   {
+                                       "u":  "yunnan.html",
+                                       "t":  "雲南"
+                                   },
+                                   {
+                                       "u":  "../europe/benelux.html",
+                                       "t":  "比利時、荷蘭、盧森堡"
+                                   },
+                                   {
+                                       "u":  "../europe/britain.html",
+                                       "t":  "英國"
+                                   },
+                                   {
+                                       "u":  "../north-america/usa.html",
+                                       "t":  "美國"
+                                   },
+                                   {
+                                       "u":  "../south-america/chile-and-others.html",
+                                       "t":  "智利、委內瑞拉、玻利維亞、巴拉圭與其餘南美"
+                                   },
+                                   {
+                                       "u":  "../world/overview.html",
+                                       "t":  "總覽：世界觀與製作原則"
+                                   },
+                                   {
+                                       "u":  "../world/timeline.html",
+                                       "t":  "全球時間軸"
+                                   }
+                               ],
+    "asia/taiwan.md":  [
+                           {
+                               "u":  "borderlands.html",
+                               "t":  "蒙古、滿洲、新疆與西藏"
+                           },
+                           {
+                               "u":  "china.html",
+                               "t":  "中國"
+                           },
+                           {
+                               "u":  "japan.html",
+                               "t":  "日本"
+                           }
+                       ],
+    "asia/turkey.md":  [
+                           {
+                               "u":  "middle-east.html",
+                               "t":  "中東與近東"
+                           },
+                           {
+                               "u":  "southeast-asia.html",
+                               "t":  "東南亞"
+                           },
+                           {
+                               "u":  "../world/overview.html",
+                               "t":  "總覽：世界觀與製作原則"
+                           },
+                           {
+                               "u":  "../world/timeline.html",
+                               "t":  "全球時間軸"
+                           }
+                       ],
+    "asia/yunnan.md":  [
+                           {
+                               "u":  "borderlands.html",
+                               "t":  "蒙古、滿洲、新疆與西藏"
+                           },
+                           {
+                               "u":  "china.html",
+                               "t":  "中國"
+                           }
+                       ],
+    "europe/albania.md":  [
+                              {
+                                  "u":  "../world/overview.html",
+                                  "t":  "總覽：世界觀與製作原則"
+                              }
+                          ],
+    "europe/austria.md":  [
+                              {
+                                  "u":  "baltic.html",
+                                  "t":  "波羅的海"
+                              },
+                              {
+                                  "u":  "../world/overview.html",
+                                  "t":  "總覽：世界觀與製作原則"
+                              },
+                              {
+                                  "u":  "../world/papacy.html",
+                                  "t":  "教廷與梵蒂岡"
+                              },
+                              {
+                                  "u":  "../world/timeline.html",
+                                  "t":  "全球時間軸"
+                              }
+                          ],
+    "europe/baltic.md":  [
+                             {
+                                 "u":  "austria.html",
+                                 "t":  "奧地利"
+                             },
+                             {
+                                 "u":  "germany.html",
+                                 "t":  "德國"
+                             },
+                             {
+                                 "u":  "poland.html",
+                                 "t":  "波蘭"
+                             },
+                             {
+                                 "u":  "../world/overview.html",
+                                 "t":  "總覽：世界觀與製作原則"
+                             }
+                         ],
+    "europe/benelux.md":  [
+                              {
+                                  "u":  "../africa/central-south.html",
+                                  "t":  "中非、南非與西非"
+                              },
+                              {
+                                  "u":  "../asia/southeast-asia.html",
+                                  "t":  "東南亞"
+                              },
+                              {
+                                  "u":  "austria.html",
+                                  "t":  "奧地利"
+                              },
+                              {
+                                  "u":  "germany.html",
+                                  "t":  "德國"
+                              },
+                              {
+                                  "u":  "microstates.html",
+                                  "t":  "微型國家"
+                              },
+                              {
+                                  "u":  "../world/overview.html",
+                                  "t":  "總覽：世界觀與製作原則"
+                              }
+                          ],
+    "europe/britain.md":  [
+                              {
+                                  "u":  "../asia/china.html",
+                                  "t":  "中國"
+                              },
+                              {
+                                  "u":  "../asia/south-asia.html",
+                                  "t":  "南亞"
+                              },
+                              {
+                                  "u":  "albania.html",
+                                  "t":  "阿爾巴尼亞"
+                              },
+                              {
+                                  "u":  "germany.html",
+                                  "t":  "德國"
+                              },
+                              {
+                                  "u":  "greece.html",
+                                  "t":  "希臘"
+                              },
+                              {
+                                  "u":  "ireland.html",
+                                  "t":  "愛爾蘭"
+                              },
+                              {
+                                  "u":  "microstates.html",
+                                  "t":  "微型國家"
+                              },
+                              {
+                                  "u":  "spain.html",
+                                  "t":  "西班牙"
+                              },
+                              {
+                                  "u":  "../north-america/canada.html",
+                                  "t":  "加拿大"
+                              },
+                              {
+                                  "u":  "../world/overview.html",
+                                  "t":  "總覽：世界觀與製作原則"
+                              },
+                              {
+                                  "u":  "../world/timeline.html",
+                                  "t":  "全球時間軸"
+                              }
+                          ],
+    "europe/bulgaria.md":  [
+                               {
+                                   "u":  "../asia/middle-east.html",
+                                   "t":  "中東與近東"
+                               },
+                               {
+                                   "u":  "../world/overview.html",
+                                   "t":  "總覽：世界觀與製作原則"
+                               },
+                               {
+                                   "u":  "../world/timeline.html",
+                                   "t":  "全球時間軸"
+                               }
+                           ],
+    "europe/czechoslovakia.md":  [
+                                     {
+                                         "u":  "../asia/middle-east.html",
+                                         "t":  "中東與近東"
+                                     },
+                                     {
+                                         "u":  "../asia/south-asia.html",
+                                         "t":  "南亞"
+                                     },
+                                     {
+                                         "u":  "germany.html",
+                                         "t":  "德國"
+                                     },
+                                     {
+                                         "u":  "poland.html",
+                                         "t":  "波蘭"
+                                     },
+                                     {
+                                         "u":  "../world/overview.html",
+                                         "t":  "總覽：世界觀與製作原則"
+                                     }
+                                 ],
+    "europe/france.md":  [
+                             {
+                                 "u":  "austria.html",
+                                 "t":  "奧地利"
+                             },
+                             {
+                                 "u":  "britain.html",
+                                 "t":  "英國"
+                             },
+                             {
+                                 "u":  "greece.html",
+                                 "t":  "希臘"
+                             },
+                             {
+                                 "u":  "ireland.html",
+                                 "t":  "愛爾蘭"
+                             },
+                             {
+                                 "u":  "italy.html",
+                                 "t":  "義大利"
+                             },
+                             {
+                                 "u":  "../world/overview.html",
+                                 "t":  "總覽：世界觀與製作原則"
+                             },
+                             {
+                                 "u":  "../world/papacy.html",
+                                 "t":  "教廷與梵蒂岡"
+                             },
+                             {
+                                 "u":  "../world/timeline.html",
+                                 "t":  "全球時間軸"
+                             }
+                         ],
+    "europe/germany.md":  [
+                              {
+                                  "u":  "../asia/borderlands.html",
+                                  "t":  "蒙古、滿洲、新疆與西藏"
+                              },
+                              {
+                                  "u":  "../asia/china.html",
+                                  "t":  "中國"
+                              },
+                              {
+                                  "u":  "britain.html",
+                                  "t":  "英國"
+                              },
+                              {
+                                  "u":  "czechoslovakia.html",
+                                  "t":  "捷克斯洛伐克"
+                              },
+                              {
+                                  "u":  "../world/overview.html",
+                                  "t":  "總覽：世界觀與製作原則"
+                              },
+                              {
+                                  "u":  "../world/timeline.html",
+                                  "t":  "全球時間軸"
+                              }
+                          ],
+    "europe/greece.md":  [
+                             {
+                                 "u":  "../asia/turkey.html",
+                                 "t":  "土耳其"
+                             },
+                             {
+                                 "u":  "italy.html",
+                                 "t":  "義大利"
+                             },
+                             {
+                                 "u":  "../world/overview.html",
+                                 "t":  "總覽：世界觀與製作原則"
+                             }
+                         ],
+    "europe/hungary.md":  [
+                              {
+                                  "u":  "../asia/turkey.html",
+                                  "t":  "土耳其"
+                              },
+                              {
+                                  "u":  "austria.html",
+                                  "t":  "奧地利"
+                              },
+                              {
+                                  "u":  "../world/overview.html",
+                                  "t":  "總覽：世界觀與製作原則"
+                              },
+                              {
+                                  "u":  "../world/timeline.html",
+                                  "t":  "全球時間軸"
+                              }
+                          ],
+    "europe/ireland.md":  [
+                              {
+                                  "u":  "../world/overview.html",
+                                  "t":  "總覽：世界觀與製作原則"
+                              }
+                          ],
+    "europe/italy.md":  [
+                            {
+                                "u":  "../africa/ethiopia.html",
+                                "t":  "衣索比亞"
+                            },
+                            {
+                                "u":  "../africa/north-africa.html",
+                                "t":  "北非"
+                            },
+                            {
+                                "u":  "austria.html",
+                                "t":  "奧地利"
+                            },
+                            {
+                                "u":  "greece.html",
+                                "t":  "希臘"
+                            },
+                            {
+                                "u":  "../world/overview.html",
+                                "t":  "總覽：世界觀與製作原則"
+                            },
+                            {
+                                "u":  "../world/papacy.html",
+                                "t":  "教廷與梵蒂岡"
+                            },
+                            {
+                                "u":  "../world/timeline.html",
+                                "t":  "全球時間軸"
+                            }
+                        ],
+    "europe/microstates.md":  [
+                                  {
+                                      "u":  "austria.html",
+                                      "t":  "奧地利"
+                                  },
+                                  {
+                                      "u":  "baltic.html",
+                                      "t":  "波羅的海"
+                                  },
+                                  {
+                                      "u":  "benelux.html",
+                                      "t":  "比利時、荷蘭、盧森堡"
+                                  },
+                                  {
+                                      "u":  "france.html",
+                                      "t":  "法國"
+                                  },
+                                  {
+                                      "u":  "greece.html",
+                                      "t":  "希臘"
+                                  },
+                                  {
+                                      "u":  "italy.html",
+                                      "t":  "義大利"
+                                  },
+                                  {
+                                      "u":  "poland.html",
+                                      "t":  "波蘭"
+                                  },
+                                  {
+                                      "u":  "switzerland.html",
+                                      "t":  "瑞士"
+                                  },
+                                  {
+                                      "u":  "ussr.html",
+                                      "t":  "蘇聯"
+                                  }
+                              ],
+    "europe/nordic.md":  [
+                             {
+                                 "u":  "baltic.html",
+                                 "t":  "波羅的海"
+                             },
+                             {
+                                 "u":  "../north-america/canada.html",
+                                 "t":  "加拿大"
+                             },
+                             {
+                                 "u":  "../world/overview.html",
+                                 "t":  "總覽：世界觀與製作原則"
+                             }
+                         ],
+    "europe/poland.md":  [
+                             {
+                                 "u":  "../world/overview.html",
+                                 "t":  "總覽：世界觀與製作原則"
+                             }
+                         ],
+    "europe/portugal.md":  [
+                               {
+                                   "u":  "../asia/china.html",
+                                   "t":  "中國"
+                               },
+                               {
+                                   "u":  "spain.html",
+                                   "t":  "西班牙"
+                               },
+                               {
+                                   "u":  "../world/overview.html",
+                                   "t":  "總覽：世界觀與製作原則"
+                               }
+                           ],
+    "europe/romania.md":  [
+                              {
+                                  "u":  "../world/overview.html",
+                                  "t":  "總覽：世界觀與製作原則"
+                              }
+                          ],
+    "europe/spain.md":  [
+                            {
+                                "u":  "../africa/north-africa.html",
+                                "t":  "北非"
+                            },
+                            {
+                                "u":  "portugal.html",
+                                "t":  "葡萄牙"
+                            },
+                            {
+                                "u":  "../world/overview.html",
+                                "t":  "總覽：世界觀與製作原則"
+                            },
+                            {
+                                "u":  "../world/timeline.html",
+                                "t":  "全球時間軸"
+                            }
+                        ],
+    "europe/switzerland.md":  [
+                                  {
+                                      "u":  "austria.html",
+                                      "t":  "奧地利"
+                                  },
+                                  {
+                                      "u":  "../world/geneva-conference.html",
+                                      "t":  "日內瓦信仰大會"
+                                  },
+                                  {
+                                      "u":  "../world/overview.html",
+                                      "t":  "總覽：世界觀與製作原則"
+                                  }
+                              ],
+    "europe/ussr.md":  [
+                           {
+                               "u":  "../asia/central-asia.html",
+                               "t":  "阿富汗與中亞"
+                           },
+                           {
+                               "u":  "../asia/north-asia.html",
+                               "t":  "北亞"
+                           },
+                           {
+                               "u":  "../asia/turkey.html",
+                               "t":  "土耳其"
+                           },
+                           {
+                               "u":  "romania.html",
+                               "t":  "羅馬尼亞"
+                           },
+                           {
+                               "u":  "../world/overview.html",
+                               "t":  "總覽：世界觀與製作原則"
+                           },
+                           {
+                               "u":  "../world/timeline.html",
+                               "t":  "全球時間軸"
+                           }
+                       ],
+    "europe/yugoslavia.md":  [
+                                 {
+                                     "u":  "albania.html",
+                                     "t":  "阿爾巴尼亞"
+                                 },
+                                 {
+                                     "u":  "germany.html",
+                                     "t":  "德國"
+                                 },
+                                 {
+                                     "u":  "../world/overview.html",
+                                     "t":  "總覽：世界觀與製作原則"
+                                 },
+                                 {
+                                     "u":  "../world/timeline.html",
+                                     "t":  "全球時間軸"
+                                 }
+                             ],
+    "north-america/canada.md":  [
+                                    {
+                                        "u":  "../asia/south-asia.html",
+                                        "t":  "南亞"
+                                    },
+                                    {
+                                        "u":  "../europe/britain.html",
+                                        "t":  "英國"
+                                    },
+                                    {
+                                        "u":  "overview.html",
+                                        "t":  "北美總覽"
+                                    }
+                                ],
+    "north-america/caribbean.md":  [
+                                       {
+                                           "u":  "../africa/ethiopia.html",
+                                           "t":  "衣索比亞"
+                                       },
+                                       {
+                                           "u":  "../europe/italy.html",
+                                           "t":  "義大利"
+                                       },
+                                       {
+                                           "u":  "overview.html",
+                                           "t":  "北美總覽"
+                                       },
+                                       {
+                                           "u":  "../world/timeline.html",
+                                           "t":  "全球時間軸"
+                                       }
+                                   ],
+    "north-america/conflict-chains.md":  [
+                                             {
+                                                 "u":  "overview.html",
+                                                 "t":  "北美總覽"
+                                             }
+                                         ],
+    "north-america/mexico.md":  [
+                                    {
+                                        "u":  "overview.html",
+                                        "t":  "北美總覽"
+                                    }
+                                ],
+    "north-america/overview.md":  [
+                                      {
+                                          "u":  "../europe/hungary.html",
+                                          "t":  "匈牙利"
+                                      },
+                                      {
+                                          "u":  "../europe/nordic.html",
+                                          "t":  "北歐"
+                                      },
+                                      {
+                                          "u":  "../europe/spain.html",
+                                          "t":  "西班牙"
+                                      },
+                                      {
+                                          "u":  "../world/overview.html",
+                                          "t":  "總覽：世界觀與製作原則"
+                                      }
+                                  ],
+    "north-america/usa.md":  [
+                                 {
+                                     "u":  "../asia/china.html",
+                                     "t":  "中國"
+                                 },
+                                 {
+                                     "u":  "../asia/southeast-asia.html",
+                                     "t":  "東南亞"
+                                 },
+                                 {
+                                     "u":  "../europe/yugoslavia.html",
+                                     "t":  "南斯拉夫"
+                                 },
+                                 {
+                                     "u":  "canada.html",
+                                     "t":  "加拿大"
+                                 },
+                                 {
+                                     "u":  "overview.html",
+                                     "t":  "北美總覽"
+                                 },
+                                 {
+                                     "u":  "../oceania/oceania.html",
+                                     "t":  "大洋洲"
+                                 },
+                                 {
+                                     "u":  "../world/timeline.html",
+                                     "t":  "全球時間軸"
+                                 }
+                             ],
+    "oceania/oceania.md":  [
+                               {
+                                   "u":  "../asia/japan.html",
+                                   "t":  "日本"
+                               },
+                               {
+                                   "u":  "../north-america/usa.html",
+                                   "t":  "美國"
+                               },
+                               {
+                                   "u":  "../world/overview.html",
+                                   "t":  "總覽：世界觀與製作原則"
+                               },
+                               {
+                                   "u":  "../world/timeline.html",
+                                   "t":  "全球時間軸"
+                               }
+                           ],
+    "south-america/brazil.md":  [
+                                    {
+                                        "u":  "../europe/italy.html",
+                                        "t":  "義大利"
+                                    },
+                                    {
+                                        "u":  "../europe/portugal.html",
+                                        "t":  "葡萄牙"
+                                    },
+                                    {
+                                        "u":  "../world/overview.html",
+                                        "t":  "總覽：世界觀與製作原則"
+                                    }
+                                ],
+    "south-america/chile-and-others.md":  [
+                                              {
+                                                  "u":  "../asia/southeast-asia.html",
+                                                  "t":  "東南亞"
+                                              },
+                                              {
+                                                  "u":  "../world/claims-overlap.html",
+                                                  "t":  "領土重疊宣稱表"
+                                              },
+                                              {
+                                                  "u":  "../world/overview.html",
+                                                  "t":  "總覽：世界觀與製作原則"
+                                              },
+                                              {
+                                                  "u":  "../world/timeline.html",
+                                                  "t":  "全球時間軸"
+                                              }
+                                          ],
+    "south-america/peru.md":  [
+                                  {
+                                      "u":  "../asia/japan.html",
+                                      "t":  "日本"
+                                  },
+                                  {
+                                      "u":  "../world/overview.html",
+                                      "t":  "總覽：世界觀與製作原則"
+                                  }
+                              ],
+    "world/claims-overlap.md":  [
+                                    {
+                                        "u":  "../europe/baltic.html",
+                                        "t":  "波羅的海"
+                                    },
+                                    {
+                                        "u":  "../europe/nordic.html",
+                                        "t":  "北歐"
+                                    },
+                                    {
+                                        "u":  "changelog.html",
+                                        "t":  "更新紀錄"
+                                    },
+                                    {
+                                        "u":  "conflicts.html",
+                                        "t":  "世界衝突列表"
+                                    },
+                                    {
+                                        "u":  "glossary.html",
+                                        "t":  "名詞表"
+                                    },
+                                    {
+                                        "u":  "overview.html",
+                                        "t":  "總覽：世界觀與製作原則"
+                                    }
+                                ],
+    "world/conflicts.md":  [
+                               {
+                                   "u":  "changelog.html",
+                                   "t":  "更新紀錄"
+                               },
+                               {
+                                   "u":  "glossary.html",
+                                   "t":  "名詞表"
+                               }
+                           ],
+    "world/country-roster.md":  [
+                                    {
+                                        "u":  "../north-america/overview.html",
+                                        "t":  "北美總覽"
+                                    },
+                                    {
+                                        "u":  "changelog.html",
+                                        "t":  "更新紀錄"
+                                    },
+                                    {
+                                        "u":  "glossary.html",
+                                        "t":  "名詞表"
+                                    },
+                                    {
+                                        "u":  "overview.html",
+                                        "t":  "總覽：世界觀與製作原則"
+                                    }
+                                ],
+    "world/factions.md":  [
+                              {
+                                  "u":  "../asia/middle-east.html",
+                                  "t":  "中東與近東"
+                              },
+                              {
+                                  "u":  "../europe/france.html",
+                                  "t":  "法國"
+                              },
+                              {
+                                  "u":  "../europe/ireland.html",
+                                  "t":  "愛爾蘭"
+                              },
+                              {
+                                  "u":  "../europe/nordic.html",
+                                  "t":  "北歐"
+                              },
+                              {
+                                  "u":  "../europe/poland.html",
+                                  "t":  "波蘭"
+                              },
+                              {
+                                  "u":  "../europe/spain.html",
+                                  "t":  "西班牙"
+                              },
+                              {
+                                  "u":  "geneva-conference.html",
+                                  "t":  "日內瓦信仰大會"
+                              },
+                              {
+                                  "u":  "glossary.html",
+                                  "t":  "名詞表"
+                              },
+                              {
+                                  "u":  "overview.html",
+                                  "t":  "總覽：世界觀與製作原則"
+                              },
+                              {
+                                  "u":  "world-war.html",
+                                  "t":  "世界大戰"
+                              }
+                          ],
+    "world/geneva-conference.md":  [
+                                       {
+                                           "u":  "../europe/switzerland.html",
+                                           "t":  "瑞士"
+                                       },
+                                       {
+                                           "u":  "factions.html",
+                                           "t":  "信仰陣營"
+                                       },
+                                       {
+                                           "u":  "glossary.html",
+                                           "t":  "名詞表"
+                                       },
+                                       {
+                                           "u":  "overview.html",
+                                           "t":  "總覽：世界觀與製作原則"
+                                       },
+                                       {
+                                           "u":  "timeline.html",
+                                           "t":  "全球時間軸"
+                                       }
+                                   ],
+    "world/glossary.md":  [
+                              {
+                                  "u":  "changelog.html",
+                                  "t":  "更新紀錄"
+                              }
+                          ],
+    "world/overview.md":  [
+                              {
+                                  "u":  "claims-overlap.html",
+                                  "t":  "領土重疊宣稱表"
+                              },
+                              {
+                                  "u":  "world-war.html",
+                                  "t":  "世界大戰"
+                              }
+                          ],
+    "world/papacy.md":  [
+                            {
+                                "u":  "../europe/italy.html",
+                                "t":  "義大利"
+                            },
+                            {
+                                "u":  "../europe/microstates.html",
+                                "t":  "微型國家"
+                            },
+                            {
+                                "u":  "overview.html",
+                                "t":  "總覽：世界觀與製作原則"
+                            },
+                            {
+                                "u":  "timeline.html",
+                                "t":  "全球時間軸"
+                            }
+                        ],
+    "world/supreme-rome.md":  [
+                                  {
+                                      "u":  "../asia/southeast-asia.html",
+                                      "t":  "東南亞"
+                                  },
+                                  {
+                                      "u":  "../europe/france.html",
+                                      "t":  "法國"
+                                  },
+                                  {
+                                      "u":  "../europe/greece.html",
+                                      "t":  "希臘"
+                                  },
+                                  {
+                                      "u":  "../europe/italy.html",
+                                      "t":  "義大利"
+                                  },
+                                  {
+                                      "u":  "../europe/ussr.html",
+                                      "t":  "蘇聯"
+                                  },
+                                  {
+                                      "u":  "changelog.html",
+                                      "t":  "更新紀錄"
+                                  },
+                                  {
+                                      "u":  "glossary.html",
+                                      "t":  "名詞表"
+                                  },
+                                  {
+                                      "u":  "overview.html",
+                                      "t":  "總覽：世界觀與製作原則"
+                                  },
+                                  {
+                                      "u":  "timeline.html",
+                                      "t":  "全球時間軸"
+                                  }
+                              ],
+    "world/timeline.md":  [
+                              {
+                                  "u":  "../europe/austria.html",
+                                  "t":  "奧地利"
+                              },
+                              {
+                                  "u":  "../europe/britain.html",
+                                  "t":  "英國"
+                              },
+                              {
+                                  "u":  "../europe/italy.html",
+                                  "t":  "義大利"
+                              },
+                              {
+                                  "u":  "../north-america/canada.html",
+                                  "t":  "加拿大"
+                              },
+                              {
+                                  "u":  "../north-america/overview.html",
+                                  "t":  "北美總覽"
+                              },
+                              {
+                                  "u":  "overview.html",
+                                  "t":  "總覽：世界觀與製作原則"
+                              },
+                              {
+                                  "u":  "papacy.html",
+                                  "t":  "教廷與梵蒂岡"
+                              }
+                          ],
+    "world/world-war.md":  [
+                               {
+                                   "u":  "geneva-conference.html",
+                                   "t":  "日內瓦信仰大會"
+                               },
+                               {
+                                   "u":  "glossary.html",
+                                   "t":  "名詞表"
+                               },
+                               {
+                                   "u":  "overview.html",
+                                   "t":  "總覽：世界觀與製作原則"
+                               },
+                               {
+                                   "u":  "timeline.html",
+                                   "t":  "全球時間軸"
+                               }
+                           ]
+}

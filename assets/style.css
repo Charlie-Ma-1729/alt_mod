@@ -193,3 +193,63 @@ th, td {
 }
 
 th { background: var(--surface); text-align: left; }
+
+/* ---- 維基化：搜尋、目錄、連入頁面、更新日期 ---- */
+.site-header .wrap { gap: 0.75rem; flex-wrap: wrap; padding-top: 0.5rem; padding-bottom: 0.5rem; }
+.search { position: relative; flex: 1 1 16rem; max-width: 26rem; }
+.search input {
+  width: 100%;
+  font: inherit;
+  font-size: 0.9rem;
+  padding: 0.4rem 0.9rem;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+}
+.search input:focus-visible { outline: 2px solid var(--link); outline-offset: 1px; }
+#results {
+  position: absolute;
+  z-index: 10;
+  top: calc(100% + 0.4rem);
+  left: 0;
+  right: 0;
+  max-height: 70vh;
+  overflow-y: auto;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+  padding: 0.5rem 0.75rem;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+#results ul { list-style: none; margin: 0; padding: 0; }
+#results li { margin: 0; border-top: 1px solid var(--border); }
+#results li:first-child { border-top: 0; }
+#results a { display: block; padding: 0.5rem 0.1rem; color: var(--text); text-decoration: none; }
+#results a:hover strong { text-decoration: underline; }
+#results strong { display: block; color: var(--link); }
+#results span { display: block; color: var(--muted); font-size: 0.85rem; }
+#results mark { background: rgba(255, 200, 0, 0.35); color: inherit; border-radius: 2px; }
+#results .count, #results .none { margin: 0.25rem 0 0.5rem; color: var(--muted); font-size: 0.85rem; }
+
+.page-meta { margin: -0.5rem 0 1rem; color: var(--muted); font-size: 0.85rem; }
+
+.toc { margin: 0 0 1.5rem; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; padding: 0.5rem 1rem; font-size: 0.9rem; }
+.toc summary { cursor: pointer; font-weight: 600; }
+.toc ol { list-style: none; margin: 0.5rem 0 0.25rem; padding: 0; columns: 2 16rem; column-gap: 2rem; }
+.toc li { margin: 0.1rem 0; break-inside: avoid; }
+.toc li.l3 { padding-left: 1rem; font-size: 0.85rem; }
+.toc a { text-decoration: none; }
+.toc a:hover { text-decoration: underline; }
+
+.backlinks { margin-top: 2.5rem; }
+.backlinks h2 { font-size: 1.05rem; }
+.report { margin-top: 2rem; color: var(--muted); font-size: 0.875rem; }
+
+.home-intro { margin: 0 0 1.5rem; padding: 1rem 1.25rem; background: var(--surface); border: 1px solid var(--border); border-radius: 10px; }
+.home-intro p { margin: 0.25rem 0; }
+.recent { list-style: none; margin: 0.5rem 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: 0.4rem 1rem; }
+.recent li { margin: 0; display: flex; justify-content: space-between; gap: 0.5rem; font-size: 0.95rem; }
+.recent time { color: var(--muted); font-size: 0.8rem; white-space: nowrap; }

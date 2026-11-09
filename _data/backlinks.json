@@ -177,6 +177,10 @@
                               "t":  "台灣"
                           },
                           {
+                              "u":  "../world/changelog.html",
+                              "t":  "更新紀錄"
+                          },
+                          {
                               "u":  "../world/overview.html",
                               "t":  "總覽：世界觀與製作原則"
                           },

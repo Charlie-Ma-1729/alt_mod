@@ -64,7 +64,7 @@ title: "總覽：世界觀與製作原則"
 | 蒙古、滿洲、新疆、西藏 | 奧茲國；阿奎隆尼亞；敦煌文書研究院獨立國；藍月香格里拉 | [蒙古與邊疆](../asia/borderlands.html) |
 | 東南亞 | 清加坡三條；緬甸（克蘇魯，理智值）；印尼法家與墨家分裂；泛泰印提四腳聖獸國；越南分裂；汶萊帝國；馬來亞武道館王國 | [東南亞](../asia/southeast-asia.html) |
 | 南亞 | 印度四條路線；瑪拿西以色列王國；喜馬拉雅七國與山脈聖王國、香格里拉；巴基斯坦自治領與伊瑪目國；德拉維達聯盟國；孟加拉公社聯盟；錫蘭 | [南亞](../asia/south-asia.html) |
-| 中東、中亞 | 巫毒波斯；石油神帝國（依主動方有十多種石油王）；鎮尼斯坦；巴勒斯坦；阿富汗三條路線 | [中東](../asia/middle-east.html)、[阿富汗與中亞](../asia/central-asia.html) |
+| 中東、中亞 | 巫毒波斯；阿拉伯石油企業帝國（依主動方有十多種石油王）；鎮尼斯坦；巴勒斯坦；阿富汗三條路線 | [中東](../asia/middle-east.html)、[阿富汗與中亞](../asia/central-asia.html) |
 | 非洲 | 國共內戰在非洲、衣索比亞、埃及（A、B、C、D、F）、摩洛哥阿特拉斯太陽王國、西撒哈拉柏柏摩爾部落聯盟、蘇丹庫施王國、加納阿散蒂王國、巴羅策蘭、剛果耆那教、南非三國加羅德西亞與馬達加斯加 | [國共內戰在非洲](../africa/china-in-africa.html)、[衣索比亞](../africa/ethiopia.html)、[北非](../africa/north-africa.html)、[中非、南非與西非](../africa/central-south.html) |
 | 大洋洲 | 澳洲九天玄女（現實版）、紐魯克（原紐西蘭）、巴布亞三國、太平洋島國聯盟帝國、夏威夷 | [大洋洲](../oceania/oceania.html) |
 | 南美 | 秘魯日輪起義、巴西迦南神系、智利所羅門王、巴塔哥尼亞、艾爾多拉多、人民聖殿教蓋亞那、阿拉比亞斯坦、玻利維亞、巴拉圭 | [秘魯](../south-america/peru.html)、[巴西](../south-america/brazil.html)、[智利與其餘南美](../south-america/chile-and-others.html) |

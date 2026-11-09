@@ -1043,6 +1043,10 @@
                           ],
     "world/overview.md":  [
                               {
+                                  "u":  "../asia/japan.html",
+                                  "t":  "日本"
+                              },
+                              {
                                   "u":  "claims-overlap.html",
                                   "t":  "領土重疊宣稱表"
                               },

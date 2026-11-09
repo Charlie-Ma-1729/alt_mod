@@ -579,6 +579,10 @@
                                   "t":  "蘇聯"
                               },
                               {
+                                  "u":  "../world/glossary.html",
+                                  "t":  "名詞表"
+                              },
+                              {
                                   "u":  "../world/overview.html",
                                   "t":  "總覽：世界觀與製作原則"
                               },
@@ -1283,6 +1287,10 @@
                                {
                                    "u":  "changelog.html",
                                    "t":  "更新紀錄"
+                               },
+                               {
+                                   "u":  "economy.html",
+                                   "t":  "世界經濟崩盤與針線街大休克"
                                },
                                {
                                    "u":  "geneva-conference.html",

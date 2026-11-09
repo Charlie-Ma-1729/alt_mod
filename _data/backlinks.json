@@ -365,6 +365,10 @@
                                   "t":  "德國"
                               },
                               {
+                                  "u":  "hungary.html",
+                                  "t":  "匈牙利"
+                              },
+                              {
                                   "u":  "../world/overview.html",
                                   "t":  "總覽：世界觀與製作原則"
                               },
@@ -569,6 +573,10 @@
                               {
                                   "u":  "czechoslovakia.html",
                                   "t":  "捷克斯洛伐克"
+                              },
+                              {
+                                  "u":  "ussr.html",
+                                  "t":  "蘇聯"
                               },
                               {
                                   "u":  "../world/overview.html",
@@ -921,6 +929,10 @@
                                      "t":  "大洋洲"
                                  },
                                  {
+                                     "u":  "../world/economy.html",
+                                     "t":  "世界經濟崩盤與針線街大休克"
+                                 },
+                                 {
                                      "u":  "../world/timeline.html",
                                      "t":  "全球時間軸"
                                  }
@@ -1043,6 +1055,24 @@
                                         "t":  "總覽：世界觀與製作原則"
                                     }
                                 ],
+    "world/economy.md":  [
+                             {
+                                 "u":  "changelog.html",
+                                 "t":  "更新紀錄"
+                             },
+                             {
+                                 "u":  "overview.html",
+                                 "t":  "總覽：世界觀與製作原則"
+                             },
+                             {
+                                 "u":  "timeline.html",
+                                 "t":  "全球時間軸"
+                             },
+                             {
+                                 "u":  "world-war.html",
+                                 "t":  "世界大戰"
+                             }
+                         ],
     "world/factions.md":  [
                               {
                                   "u":  "../asia/middle-east.html",
@@ -1147,6 +1177,10 @@
                             {
                                 "u":  "timeline.html",
                                 "t":  "全球時間軸"
+                            },
+                            {
+                                "u":  "world-war.html",
+                                "t":  "世界大戰"
                             }
                         ],
     "world/supreme-rome.md":  [
@@ -1227,8 +1261,24 @@
                                    "t":  "奧地利"
                                },
                                {
+                                   "u":  "../europe/baltic.html",
+                                   "t":  "波羅的海"
+                               },
+                               {
                                    "u":  "../europe/france.html",
                                    "t":  "法國"
+                               },
+                               {
+                                   "u":  "../europe/germany.html",
+                                   "t":  "德國"
+                               },
+                               {
+                                   "u":  "../europe/hungary.html",
+                                   "t":  "匈牙利"
+                               },
+                               {
+                                   "u":  "../europe/ussr.html",
+                                   "t":  "蘇聯"
                                },
                                {
                                    "u":  "changelog.html",
@@ -1247,8 +1297,8 @@
                                    "t":  "總覽：世界觀與製作原則"
                                },
                                {
-                                   "u":  "timeline.html",
-                                   "t":  "全球時間軸"
+                                   "u":  "papacy.html",
+                                   "t":  "教廷與梵蒂岡"
                                }
                            ]
 }

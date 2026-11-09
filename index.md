@@ -3,7 +3,7 @@ layout: default
 title: "目錄"
 ---
 <div class="home-intro">
-<p>這裡只收<strong>已經確認</strong>的設計，按地區與國家整理，共 61 頁。用上方的搜尋框可以找任何國名、路線或詞；每一頁都標有最後更新日期，頁尾有「哪些頁面連到這裡」。</p>
+<p>這裡只收<strong>已經確認</strong>的設計，按地區與國家整理，共 62 頁。用上方的搜尋框可以找任何國名、路線或詞；每一頁都標有最後更新日期，頁尾有「哪些頁面連到這裡」。</p>
 <p>第一次來可以先看：<a href="world/overview.html">世界觀與製作原則</a>、<a href="world/country-roster.html">全國路線總表</a>、<a href="world/conflicts.html">世界衝突列表</a>、<a href="world/glossary.html">名詞表</a>、<a href="world/changelog.html">更新紀錄</a>。發現漏掉或寫錯，請按各頁底部的「回報這一頁」。</p>
 </div>
 <section class="region">
@@ -33,6 +33,7 @@ title: "目錄"
 <li><a href="world/geneva-conference.html">日內瓦信仰大會</a></li>
 <li><a href="world/supreme-rome.html">至高羅馬最終對決</a></li>
 <li><a href="world/world-war.html">世界大戰</a></li>
+<li><a href="world/economy.html">世界經濟崩盤與針線街大休克</a></li>
 <li><a href="world/papacy.html">教廷與梵蒂岡</a></li>
 <li><a href="world/claims-overlap.html">領土重疊宣稱表</a></li>
 <li><a href="world/glossary.html">名詞表</a></li>

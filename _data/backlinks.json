@@ -703,6 +703,10 @@
                                   {
                                       "u":  "ussr.html",
                                       "t":  "蘇聯"
+                                  },
+                                  {
+                                      "u":  "../world/world-war.html",
+                                      "t":  "世界大戰"
                                   }
                               ],
     "europe/nordic.md":  [
@@ -1101,6 +1105,10 @@
                                        {
                                            "u":  "timeline.html",
                                            "t":  "全球時間軸"
+                                       },
+                                       {
+                                           "u":  "world-war.html",
+                                           "t":  "世界大戰"
                                        }
                                    ],
     "world/glossary.md":  [
@@ -1214,6 +1222,18 @@
                               }
                           ],
     "world/world-war.md":  [
+                               {
+                                   "u":  "../europe/austria.html",
+                                   "t":  "奧地利"
+                               },
+                               {
+                                   "u":  "../europe/france.html",
+                                   "t":  "法國"
+                               },
+                               {
+                                   "u":  "changelog.html",
+                                   "t":  "更新紀錄"
+                               },
                                {
                                    "u":  "geneva-conference.html",
                                    "t":  "日內瓦信仰大會"

@@ -9,16 +9,16 @@ title: "目錄"
 <section class="region">
 <h2>最近更新</h2>
 <ul class="recent">
-<li><a href="africa/central-south.html">中非、南非與西非</a><time>2026-11-09</time></li>
-<li><a href="africa/ethiopia.html">衣索比亞</a><time>2026-11-09</time></li>
-<li><a href="asia/borderlands.html">蒙古、滿洲、新疆與西藏</a><time>2026-11-09</time></li>
-<li><a href="asia/caucasus.html">高加索</a><time>2026-11-09</time></li>
-<li><a href="asia/china.html">中國</a><time>2026-11-09</time></li>
-<li><a href="asia/japan.html">日本</a><time>2026-11-09</time></li>
-<li><a href="asia/korea.html">朝鮮</a><time>2026-11-09</time></li>
-<li><a href="asia/middle-east.html">中東與近東</a><time>2026-11-09</time></li>
-<li><a href="asia/north-asia.html">北亞</a><time>2026-11-09</time></li>
-<li><a href="asia/south-asia.html">南亞</a><time>2026-11-09</time></li>
+<li><a href="africa/central-south.html">中非、南非與西非</a><time>2026-11-10</time></li>
+<li><a href="africa/north-africa.html">北非</a><time>2026-11-10</time></li>
+<li><a href="asia/japan.html">日本</a><time>2026-11-10</time></li>
+<li><a href="asia/korea.html">朝鮮</a><time>2026-11-10</time></li>
+<li><a href="asia/middle-east.html">中東與近東</a><time>2026-11-10</time></li>
+<li><a href="asia/north-asia.html">北亞</a><time>2026-11-10</time></li>
+<li><a href="asia/southeast-asia.html">東南亞</a><time>2026-11-10</time></li>
+<li><a href="asia/turkey.html">土耳其</a><time>2026-11-10</time></li>
+<li><a href="europe/albania.html">阿爾巴尼亞</a><time>2026-11-10</time></li>
+<li><a href="europe/baltic.html">波羅的海</a><time>2026-11-10</time></li>
 </ul>
 </section>
 <section class="region">

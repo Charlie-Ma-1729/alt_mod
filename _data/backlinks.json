@@ -225,6 +225,10 @@
                                     "t":  "法國"
                                 },
                                 {
+                                    "u":  "../europe/ireland.html",
+                                    "t":  "愛爾蘭"
+                                },
+                                {
                                     "u":  "../south-america/chile-and-others.html",
                                     "t":  "智利、委內瑞拉、玻利維亞、巴拉圭與其餘南美"
                                 },
@@ -334,6 +338,10 @@
                            }
                        ],
     "europe/albania.md":  [
+                              {
+                                  "u":  "yugoslavia.html",
+                                  "t":  "南斯拉夫"
+                              },
                               {
                                   "u":  "../world/overview.html",
                                   "t":  "總覽：世界觀與製作原則"
@@ -611,8 +619,16 @@
                                 "t":  "奧地利"
                             },
                             {
+                                "u":  "france.html",
+                                "t":  "法國"
+                            },
+                            {
                                 "u":  "greece.html",
                                 "t":  "希臘"
+                            },
+                            {
+                                "u":  "yugoslavia.html",
+                                "t":  "南斯拉夫"
                             },
                             {
                                 "u":  "../world/overview.html",
@@ -937,6 +953,10 @@
                                     {
                                         "u":  "../europe/baltic.html",
                                         "t":  "波羅的海"
+                                    },
+                                    {
+                                        "u":  "../europe/germany.html",
+                                        "t":  "德國"
                                     },
                                     {
                                         "u":  "../europe/nordic.html",

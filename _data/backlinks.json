@@ -475,8 +475,16 @@
                                          "t":  "德國"
                                      },
                                      {
+                                         "u":  "hungary.html",
+                                         "t":  "匈牙利"
+                                     },
+                                     {
                                          "u":  "poland.html",
                                          "t":  "波蘭"
+                                     },
+                                     {
+                                         "u":  "../world/country-roster.html",
+                                         "t":  "全國路線總表"
                                      },
                                      {
                                          "u":  "../world/overview.html",
@@ -565,6 +573,10 @@
                               {
                                   "u":  "austria.html",
                                   "t":  "奧地利"
+                              },
+                              {
+                                  "u":  "../world/changelog.html",
+                                  "t":  "更新紀錄"
                               },
                               {
                                   "u":  "../world/overview.html",

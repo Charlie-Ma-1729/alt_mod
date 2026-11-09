@@ -10,15 +10,15 @@ title: "目錄"
 <h2>最近更新</h2>
 <ul class="recent">
 <li><a href="africa/central-south.html">中非、南非與西非</a><time>2026-11-10</time></li>
+<li><a href="africa/china-in-africa.html">國共內戰在非洲</a><time>2026-11-10</time></li>
+<li><a href="africa/ethiopia.html">衣索比亞</a><time>2026-11-10</time></li>
 <li><a href="africa/north-africa.html">北非</a><time>2026-11-10</time></li>
+<li><a href="asia/borderlands.html">蒙古、滿洲、新疆與西藏</a><time>2026-11-10</time></li>
+<li><a href="asia/caucasus.html">高加索</a><time>2026-11-10</time></li>
+<li><a href="asia/central-asia.html">阿富汗與中亞</a><time>2026-11-10</time></li>
+<li><a href="asia/china.html">中國</a><time>2026-11-10</time></li>
 <li><a href="asia/japan.html">日本</a><time>2026-11-10</time></li>
 <li><a href="asia/korea.html">朝鮮</a><time>2026-11-10</time></li>
-<li><a href="asia/middle-east.html">中東與近東</a><time>2026-11-10</time></li>
-<li><a href="asia/north-asia.html">北亞</a><time>2026-11-10</time></li>
-<li><a href="asia/southeast-asia.html">東南亞</a><time>2026-11-10</time></li>
-<li><a href="asia/turkey.html">土耳其</a><time>2026-11-10</time></li>
-<li><a href="europe/albania.html">阿爾巴尼亞</a><time>2026-11-10</time></li>
-<li><a href="europe/baltic.html">波羅的海</a><time>2026-11-10</time></li>
 </ul>
 </section>
 <section class="region">
@@ -62,7 +62,7 @@ title: "目錄"
 <li><a href="europe/france.html">法國</a></li>
 <li><a href="europe/benelux.html">比利時、荷蘭、盧森堡</a></li>
 <li><a href="europe/switzerland.html">瑞士</a></li>
-<li><a href="europe/microstates.html">微型國家</a></li>
+<li><a href="europe/microstates.html">微型國家與歐洲小地方</a></li>
 </ul>
 </div>
 <div class="group">
@@ -92,7 +92,7 @@ title: "目錄"
 <li><a href="north-america/overview.html">北美總覽</a></li>
 <li><a href="north-america/usa.html">美國</a></li>
 <li><a href="north-america/canada.html">加拿大</a></li>
-<li><a href="north-america/mexico.html">墨西哥</a></li>
+<li><a href="north-america/mexico.html">墨西哥與中美洲</a></li>
 <li><a href="north-america/caribbean.html">加勒比海</a></li>
 <li><a href="north-america/conflict-chains.html">核心衝突鏈</a></li>
 </ul>

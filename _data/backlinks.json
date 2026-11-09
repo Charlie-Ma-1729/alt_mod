@@ -68,7 +68,7 @@
                                    },
                                    {
                                        "u":  "../north-america/mexico.html",
-                                       "t":  "墨西哥"
+                                       "t":  "墨西哥與中美洲"
                                    },
                                    {
                                        "u":  "../south-america/brazil.html",
@@ -107,6 +107,10 @@
                                  "t":  "中東與近東"
                              },
                              {
+                                 "u":  "turkey.html",
+                                 "t":  "土耳其"
+                             },
+                             {
                                  "u":  "../europe/ussr.html",
                                  "t":  "蘇聯"
                              }
@@ -143,10 +147,6 @@
                               "t":  "葡萄牙"
                           },
                           {
-                              "u":  "../south-america/chile-and-others.html",
-                              "t":  "智利、委內瑞拉、玻利維亞、巴拉圭與其餘南美"
-                          },
-                          {
                               "u":  "../world/claims-overlap.html",
                               "t":  "領土重疊宣稱表"
                           },
@@ -175,6 +175,10 @@
                           {
                               "u":  "taiwan.html",
                               "t":  "台灣"
+                          },
+                          {
+                              "u":  "../oceania/oceania.html",
+                              "t":  "大洋洲"
                           },
                           {
                               "u":  "../world/changelog.html",
@@ -307,6 +311,10 @@
                            {
                                "u":  "japan.html",
                                "t":  "日本"
+                           },
+                           {
+                               "u":  "../south-america/chile-and-others.html",
+                               "t":  "智利、委內瑞拉、玻利維亞、巴拉圭與其餘南美"
                            }
                        ],
     "asia/turkey.md":  [
@@ -351,6 +359,10 @@
                               {
                                   "u":  "baltic.html",
                                   "t":  "波羅的海"
+                              },
+                              {
+                                  "u":  "germany.html",
+                                  "t":  "德國"
                               },
                               {
                                   "u":  "../world/overview.html",
@@ -402,7 +414,7 @@
                               },
                               {
                                   "u":  "microstates.html",
-                                  "t":  "微型國家"
+                                  "t":  "微型國家與歐洲小地方"
                               },
                               {
                                   "u":  "../world/overview.html",
@@ -436,7 +448,7 @@
                               },
                               {
                                   "u":  "microstates.html",
-                                  "t":  "微型國家"
+                                  "t":  "微型國家與歐洲小地方"
                               },
                               {
                                   "u":  "spain.html",
@@ -491,6 +503,10 @@
                                          "t":  "波蘭"
                                      },
                                      {
+                                         "u":  "ussr.html",
+                                         "t":  "蘇聯"
+                                     },
+                                     {
                                          "u":  "../world/country-roster.html",
                                          "t":  "全國路線總表"
                                      },
@@ -543,6 +559,10 @@
                                   "t":  "中國"
                               },
                               {
+                                  "u":  "austria.html",
+                                  "t":  "奧地利"
+                              },
+                              {
                                   "u":  "britain.html",
                                   "t":  "英國"
                               },
@@ -557,6 +577,10 @@
                               {
                                   "u":  "../world/timeline.html",
                                   "t":  "全球時間軸"
+                              },
+                              {
+                                  "u":  "../world/world-war.html",
+                                  "t":  "世界大戰"
                               }
                           ],
     "europe/greece.md":  [
@@ -763,8 +787,8 @@
                                "t":  "北亞"
                            },
                            {
-                               "u":  "../asia/turkey.html",
-                               "t":  "土耳其"
+                               "u":  "nordic.html",
+                               "t":  "北歐"
                            },
                            {
                                "u":  "romania.html",
@@ -821,8 +845,16 @@
                                            "t":  "義大利"
                                        },
                                        {
+                                           "u":  "mexico.html",
+                                           "t":  "墨西哥與中美洲"
+                                       },
+                                       {
                                            "u":  "overview.html",
                                            "t":  "北美總覽"
+                                       },
+                                       {
+                                           "u":  "../south-america/chile-and-others.html",
+                                           "t":  "智利、委內瑞拉、玻利維亞、巴拉圭與其餘南美"
                                        },
                                        {
                                            "u":  "../world/timeline.html",
@@ -1098,7 +1130,7 @@
                             },
                             {
                                 "u":  "../europe/microstates.html",
-                                "t":  "微型國家"
+                                "t":  "微型國家與歐洲小地方"
                             },
                             {
                                 "u":  "overview.html",
@@ -1149,10 +1181,6 @@
                               ],
     "world/timeline.md":  [
                               {
-                                  "u":  "../europe/austria.html",
-                                  "t":  "奧地利"
-                              },
-                              {
                                   "u":  "../europe/britain.html",
                                   "t":  "英國"
                               },
@@ -1167,6 +1195,14 @@
                               {
                                   "u":  "../north-america/overview.html",
                                   "t":  "北美總覽"
+                              },
+                              {
+                                  "u":  "../north-america/usa.html",
+                                  "t":  "美國"
+                              },
+                              {
+                                  "u":  "geneva-conference.html",
+                                  "t":  "日內瓦信仰大會"
                               },
                               {
                                   "u":  "overview.html",

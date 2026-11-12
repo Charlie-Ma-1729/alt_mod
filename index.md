@@ -3,7 +3,7 @@ layout: default
 title: "目錄"
 ---
 <div class="home-intro">
-<p>這裡只收<strong>已經確認</strong>的設計，按地區與國家整理，共 62 頁。用上方的搜尋框可以找任何國名、路線或詞；每一頁都標有最後更新日期，頁尾有「哪些頁面連到這裡」。</p>
+<p>這裡只收<strong>已經確認</strong>的設計，按地區與國家整理，共 63 頁。用上方的搜尋框可以找任何國名、路線或詞；每一頁都標有最後更新日期，頁尾有「哪些頁面連到這裡」。</p>
 <p>第一次來可以先看：<a href="world/overview.html">世界觀與製作原則</a>、<a href="world/country-roster.html">全國路線總表</a>、<a href="world/conflicts.html">世界衝突列表</a>、<a href="world/glossary.html">名詞表</a>、<a href="world/changelog.html">更新紀錄</a>。發現漏掉或寫錯，請按各頁底部的「回報這一頁」。</p>
 </div>
 <section class="region">
@@ -15,10 +15,10 @@ title: "目錄"
 <li><a href="europe/britain.html">英國</a><time>2026-11-12</time></li>
 <li><a href="europe/czechoslovakia.html">捷克斯洛伐克</a><time>2026-11-12</time></li>
 <li><a href="europe/france.html">法國</a><time>2026-11-12</time></li>
+<li><a href="europe/germany.html">德國</a><time>2026-11-12</time></li>
 <li><a href="europe/ussr.html">蘇聯</a><time>2026-11-12</time></li>
 <li><a href="world/changelog.html">更新紀錄</a><time>2026-11-12</time></li>
 <li><a href="world/glossary.html">名詞表</a><time>2026-11-12</time></li>
-<li><a href="world/overview.html">總覽：世界觀與製作原則</a><time>2026-11-12</time></li>
 </ul>
 </section>
 <section class="region">
@@ -47,6 +47,7 @@ title: "目錄"
 <div class="group">
 <h3>德國與中歐</h3>
 <ul class="chips">
+<li><a href="europe/germany.html">德國</a></li>
 <li><a href="europe/austria.html">奧地利</a></li>
 <li><a href="europe/hungary.html">匈牙利</a></li>
 <li><a href="europe/czechoslovakia.html">捷克斯洛伐克</a></li>

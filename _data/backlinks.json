@@ -93,6 +93,10 @@
                                     "t":  "雲南"
                                 },
                                 {
+                                    "u":  "../europe/germany.html",
+                                    "t":  "德國"
+                                },
+                                {
                                     "u":  "../world/overview.html",
                                     "t":  "總覽：世界觀與製作原則"
                                 }
@@ -357,6 +361,10 @@
                                   "t":  "波羅的海"
                               },
                               {
+                                  "u":  "germany.html",
+                                  "t":  "德國"
+                              },
+                              {
                                   "u":  "hungary.html",
                                   "t":  "匈牙利"
                               },
@@ -377,6 +385,10 @@
                              {
                                  "u":  "austria.html",
                                  "t":  "奧地利"
+                             },
+                             {
+                                 "u":  "germany.html",
+                                 "t":  "德國"
                              },
                              {
                                  "u":  "poland.html",
@@ -401,6 +413,10 @@
                                   "t":  "奧地利"
                               },
                               {
+                                  "u":  "germany.html",
+                                  "t":  "德國"
+                              },
+                              {
                                   "u":  "microstates.html",
                                   "t":  "微型國家與歐洲小地方"
                               },
@@ -421,6 +437,10 @@
                               {
                                   "u":  "albania.html",
                                   "t":  "阿爾巴尼亞"
+                              },
+                              {
+                                  "u":  "germany.html",
+                                  "t":  "德國"
                               },
                               {
                                   "u":  "greece.html",
@@ -473,6 +493,10 @@
                                      {
                                          "u":  "../asia/south-asia.html",
                                          "t":  "南亞"
+                                     },
+                                     {
+                                         "u":  "germany.html",
+                                         "t":  "德國"
                                      },
                                      {
                                          "u":  "hungary.html",
@@ -529,6 +553,48 @@
                                  "t":  "全球時間軸"
                              }
                          ],
+    "europe/germany.md":  [
+                              {
+                                  "u":  "../asia/borderlands.html",
+                                  "t":  "蒙古、滿洲、新疆與西藏"
+                              },
+                              {
+                                  "u":  "../asia/china.html",
+                                  "t":  "中國"
+                              },
+                              {
+                                  "u":  "austria.html",
+                                  "t":  "奧地利"
+                              },
+                              {
+                                  "u":  "britain.html",
+                                  "t":  "英國"
+                              },
+                              {
+                                  "u":  "czechoslovakia.html",
+                                  "t":  "捷克斯洛伐克"
+                              },
+                              {
+                                  "u":  "ussr.html",
+                                  "t":  "蘇聯"
+                              },
+                              {
+                                  "u":  "../world/glossary.html",
+                                  "t":  "名詞表"
+                              },
+                              {
+                                  "u":  "../world/overview.html",
+                                  "t":  "總覽：世界觀與製作原則"
+                              },
+                              {
+                                  "u":  "../world/timeline.html",
+                                  "t":  "全球時間軸"
+                              },
+                              {
+                                  "u":  "../world/world-war.html",
+                                  "t":  "世界大戰"
+                              }
+                          ],
     "europe/greece.md":  [
                              {
                                  "u":  "../asia/turkey.html",
@@ -759,6 +825,10 @@
                                      "t":  "阿爾巴尼亞"
                                  },
                                  {
+                                     "u":  "germany.html",
+                                     "t":  "德國"
+                                 },
+                                 {
                                      "u":  "../world/overview.html",
                                      "t":  "總覽：世界觀與製作原則"
                                  },
@@ -935,6 +1005,10 @@
                                     {
                                         "u":  "../europe/baltic.html",
                                         "t":  "波羅的海"
+                                    },
+                                    {
+                                        "u":  "../europe/germany.html",
+                                        "t":  "德國"
                                     },
                                     {
                                         "u":  "../europe/nordic.html",
@@ -1219,6 +1293,10 @@
                                {
                                    "u":  "../europe/france.html",
                                    "t":  "法國"
+                               },
+                               {
+                                   "u":  "../europe/germany.html",
+                                   "t":  "德國"
                                },
                                {
                                    "u":  "../europe/hungary.html",

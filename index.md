@@ -9,16 +9,16 @@ title: "目錄"
 <section class="region">
 <h2>最近更新</h2>
 <ul class="recent">
-<li><a href="africa/central-south.html">中非、南非與西非</a><time>2026-11-10</time></li>
-<li><a href="africa/china-in-africa.html">國共內戰在非洲</a><time>2026-11-10</time></li>
-<li><a href="africa/ethiopia.html">衣索比亞</a><time>2026-11-10</time></li>
-<li><a href="africa/north-africa.html">北非</a><time>2026-11-10</time></li>
-<li><a href="asia/borderlands.html">蒙古、滿洲、新疆與西藏</a><time>2026-11-10</time></li>
-<li><a href="asia/caucasus.html">高加索</a><time>2026-11-10</time></li>
-<li><a href="asia/central-asia.html">阿富汗與中亞</a><time>2026-11-10</time></li>
-<li><a href="asia/china.html">中國</a><time>2026-11-10</time></li>
-<li><a href="asia/japan.html">日本</a><time>2026-11-10</time></li>
-<li><a href="asia/korea.html">朝鮮</a><time>2026-11-10</time></li>
+<li><a href="asia/borderlands.html">蒙古、滿洲、新疆與西藏</a><time>2026-11-12</time></li>
+<li><a href="asia/china.html">中國</a><time>2026-11-12</time></li>
+<li><a href="europe/austria.html">奧地利</a><time>2026-11-12</time></li>
+<li><a href="europe/britain.html">英國</a><time>2026-11-12</time></li>
+<li><a href="europe/czechoslovakia.html">捷克斯洛伐克</a><time>2026-11-12</time></li>
+<li><a href="europe/france.html">法國</a><time>2026-11-12</time></li>
+<li><a href="europe/ussr.html">蘇聯</a><time>2026-11-12</time></li>
+<li><a href="world/changelog.html">更新紀錄</a><time>2026-11-12</time></li>
+<li><a href="world/glossary.html">名詞表</a><time>2026-11-12</time></li>
+<li><a href="world/overview.html">總覽：世界觀與製作原則</a><time>2026-11-12</time></li>
 </ul>
 </section>
 <section class="region">
@@ -28,6 +28,7 @@ title: "目錄"
 <li><a href="world/overview.html">總覽：世界觀與製作原則</a></li>
 <li><a href="world/country-roster.html">全國路線總表</a></li>
 <li><a href="world/conflicts.html">世界衝突列表</a></li>
+<li><a href="world/splits.html">分裂總表</a></li>
 <li><a href="world/timeline.html">全球時間軸</a></li>
 <li><a href="world/factions.html">信仰陣營</a></li>
 <li><a href="world/geneva-conference.html">日內瓦信仰大會</a></li>
@@ -46,7 +47,6 @@ title: "目錄"
 <div class="group">
 <h3>德國與中歐</h3>
 <ul class="chips">
-<li><a href="europe/germany.html">德國</a></li>
 <li><a href="europe/austria.html">奧地利</a></li>
 <li><a href="europe/hungary.html">匈牙利</a></li>
 <li><a href="europe/czechoslovakia.html">捷克斯洛伐克</a></li>

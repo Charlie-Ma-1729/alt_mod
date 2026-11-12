@@ -253,3 +253,28 @@ th { background: var(--surface); text-align: left; }
 .recent { list-style: none; margin: 0.5rem 0 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: 0.4rem 1rem; }
 .recent li { margin: 0; display: flex; justify-content: space-between; gap: 0.5rem; font-size: 0.95rem; }
 .recent time { color: var(--muted); font-size: 0.8rem; white-space: nowrap; }
+
+/* ---- 分裂總表：搜尋、時間軸、分裂樹 ---- */
+.spl-bar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 14px 0 10px; }
+.spl-q { flex: 1 1 260px; min-width: 0; padding: 7px 10px; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); color: var(--text); font: inherit; }
+.spl-views { display: inline-flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; }
+.spl-views button { font: inherit; border: 0; background: var(--surface); color: var(--text); padding: 6px 12px; cursor: pointer; }
+.spl-views button + button { border-left: 1px solid var(--border); }
+.spl-views button.on { background: var(--accent); color: #fff; }
+.spl-count { color: var(--muted); font-size: 14px; }
+.spl-out h4.spl-year { margin: 22px 0 8px; padding-bottom: 4px; border-bottom: 1px solid var(--border); color: var(--accent); }
+.spl-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 8px; }
+.spl-item { border: 1px solid var(--border); border-radius: 8px; background: var(--surface); padding: 6px 10px; }
+.spl-item > summary { cursor: pointer; display: flex; justify-content: space-between; gap: 8px; align-items: baseline; }
+.spl-item p { margin: 6px 0; font-size: 14px; }
+.spl-when { font-size: 12px; color: var(--accent); white-space: nowrap; }
+.spl-when.none { color: var(--muted); }
+.spl-k { display: inline-block; font-size: 12px; color: var(--muted); margin-right: 6px; }
+.spl-lv { color: var(--muted); }
+.spl-chips span { display: inline-block; margin: 2px 4px 2px 0; padding: 0 8px; border: 1px solid var(--border); border-radius: 10px; font-size: 13px; }
+.spl-root { margin: 18px 0; }
+.spl-root > h4 { margin: 0 0 8px; padding: 4px 10px; background: var(--surface); border-left: 4px solid var(--accent); border-radius: 4px; }
+.spl-root > h4 span { margin-left: 10px; color: var(--muted); font-weight: normal; font-size: 13px; }
+.spl-tree, .spl-tree ul { list-style: none; margin: 0; padding-left: 18px; border-left: 1px dashed var(--border); }
+.spl-tree li { margin: 6px 0; }
+.spl-tree > li { margin-left: 4px; }

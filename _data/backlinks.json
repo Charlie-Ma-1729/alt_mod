@@ -1029,10 +1029,6 @@
                                     {
                                         "u":  "overview.html",
                                         "t":  "總覽：世界觀與製作原則"
-                                    },
-                                    {
-                                        "u":  "splits.html",
-                                        "t":  "分裂總表"
                                     }
                                 ],
     "world/conflicts.md":  [
@@ -1043,10 +1039,6 @@
                                {
                                    "u":  "glossary.html",
                                    "t":  "名詞表"
-                               },
-                               {
-                                   "u":  "splits.html",
-                                   "t":  "分裂總表"
                                }
                            ],
     "world/country-roster.md":  [
@@ -1065,10 +1057,6 @@
                                     {
                                         "u":  "overview.html",
                                         "t":  "總覽：世界觀與製作原則"
-                                    },
-                                    {
-                                        "u":  "splits.html",
-                                        "t":  "分裂總表"
                                     }
                                 ],
     "world/economy.md":  [
@@ -1199,12 +1187,6 @@
                                 "t":  "世界大戰"
                             }
                         ],
-    "world/splits.md":  [
-                            {
-                                "u":  "changelog.html",
-                                "t":  "更新紀錄"
-                            }
-                        ],
     "world/supreme-rome.md":  [
                                   {
                                       "u":  "../asia/southeast-asia.html",
@@ -1275,10 +1257,6 @@
                               {
                                   "u":  "papacy.html",
                                   "t":  "教廷與梵蒂岡"
-                              },
-                              {
-                                  "u":  "splits.html",
-                                  "t":  "分裂總表"
                               }
                           ],
     "world/world-war.md":  [

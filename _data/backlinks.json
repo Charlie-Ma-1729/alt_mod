@@ -869,6 +869,10 @@
                                            "t":  "北美總覽"
                                        },
                                        {
+                                           "u":  "usa.html",
+                                           "t":  "美國"
+                                       },
+                                       {
                                            "u":  "../south-america/chile-and-others.html",
                                            "t":  "智利、委內瑞拉、玻利維亞、巴拉圭與其餘南美"
                                        },
@@ -1123,6 +1127,10 @@
                                        {
                                            "u":  "../europe/switzerland.html",
                                            "t":  "瑞士"
+                                       },
+                                       {
+                                           "u":  "../north-america/usa.html",
+                                           "t":  "美國"
                                        },
                                        {
                                            "u":  "factions.html",

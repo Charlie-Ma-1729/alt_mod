@@ -9,16 +9,16 @@ title: "目錄"
 <section class="region">
 <h2>最近更新</h2>
 <ul class="recent">
-<li><a href="asia/borderlands.html">蒙古、滿洲、新疆與西藏</a><time>2026-11-12</time></li>
-<li><a href="asia/china.html">中國</a><time>2026-11-12</time></li>
-<li><a href="europe/austria.html">奧地利</a><time>2026-11-12</time></li>
-<li><a href="europe/britain.html">英國</a><time>2026-11-12</time></li>
-<li><a href="europe/czechoslovakia.html">捷克斯洛伐克</a><time>2026-11-12</time></li>
-<li><a href="europe/france.html">法國</a><time>2026-11-12</time></li>
-<li><a href="europe/germany.html">德國</a><time>2026-11-12</time></li>
-<li><a href="europe/ussr.html">蘇聯</a><time>2026-11-12</time></li>
-<li><a href="world/changelog.html">更新紀錄</a><time>2026-11-12</time></li>
-<li><a href="world/glossary.html">名詞表</a><time>2026-11-12</time></li>
+<li><a href="europe/britain.html">英國</a><time>2026-11-13</time></li>
+<li><a href="europe/germany.html">德國</a><time>2026-11-13</time></li>
+<li><a href="north-america/canada.html">加拿大</a><time>2026-11-13</time></li>
+<li><a href="north-america/caribbean.html">加勒比海</a><time>2026-11-13</time></li>
+<li><a href="north-america/overview.html">北美總覽</a><time>2026-11-13</time></li>
+<li><a href="north-america/usa.html">美國</a><time>2026-11-13</time></li>
+<li><a href="world/changelog.html">更新紀錄</a><time>2026-11-13</time></li>
+<li><a href="world/conflicts.html">世界衝突列表</a><time>2026-11-13</time></li>
+<li><a href="world/economy.html">世界經濟崩盤與針線街大休克</a><time>2026-11-13</time></li>
+<li><a href="world/glossary.html">名詞表</a><time>2026-11-13</time></li>
 </ul>
 </section>
 <section class="region">

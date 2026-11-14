@@ -9,16 +9,16 @@ title: "目錄"
 <section class="region">
 <h2>最近更新</h2>
 <ul class="recent">
+<li><a href="north-america/conflict-chains.html">核心衝突鏈</a><time>2026-11-14</time></li>
+<li><a href="north-america/usa.html">美國</a><time>2026-11-14</time></li>
+<li><a href="world/conflicts.html">世界衝突列表</a><time>2026-11-14</time></li>
+<li><a href="world/country-roster.html">全國路線總表</a><time>2026-11-14</time></li>
 <li><a href="europe/britain.html">英國</a><time>2026-11-13</time></li>
 <li><a href="europe/germany.html">德國</a><time>2026-11-13</time></li>
 <li><a href="north-america/canada.html">加拿大</a><time>2026-11-13</time></li>
 <li><a href="north-america/caribbean.html">加勒比海</a><time>2026-11-13</time></li>
 <li><a href="north-america/overview.html">北美總覽</a><time>2026-11-13</time></li>
-<li><a href="north-america/usa.html">美國</a><time>2026-11-13</time></li>
 <li><a href="world/changelog.html">更新紀錄</a><time>2026-11-13</time></li>
-<li><a href="world/conflicts.html">世界衝突列表</a><time>2026-11-13</time></li>
-<li><a href="world/economy.html">世界經濟崩盤與針線街大休克</a><time>2026-11-13</time></li>
-<li><a href="world/glossary.html">名詞表</a><time>2026-11-13</time></li>
 </ul>
 </section>
 <section class="region">
